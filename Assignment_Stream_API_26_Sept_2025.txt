@@ -1,0 +1,26 @@
+Scenario: You have a list of Employee objects with fields name, age, and department.
+Question: How would you use Stream API to get a list of names of employees older than 30 who work in the "Engineering" department?
+
+Scenario: You have a list of Transaction objects with fields amount and type ("credit" or "debit").
+Question: How would you group transactions by type and count how many of each type exist?
+
+Scenario: You have a list of Product objects with fields name and price.
+Question: How would you find the top 3 most expensive products using Stream API
+
+Scenario: You have a list of Order objects, each containing a list of Item objects.
+Question: How would you extract a flat list of all item names across all orders
+
+Scenario: You want to collect all Book titles into a single comma-separated string.
+Question: How would you achieve this using Collectors.joining()?
+
+Scenario: You have a large list of integers and want to compute the sum of their squares efficiently.
+Question: How would you use parallel streams to speed up this computation
+
+Scenario: You have a list of User objects and want to find the first user whose email ends with @example.com.
+Question: How would you use Stream API to return an Optional<User>?
+
+
+
+
+
+
